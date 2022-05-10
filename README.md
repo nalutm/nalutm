@@ -1,4 +1,9 @@
-## Olá, eu sou a Nayara Luiza, desenvolvedora iniciante 🤓💻📚
+## Olá, eu sou a Nayara Luiza, desenvolvedora iniciante! 🤓💻📚
+
+- 🔭 Hoje estou estudando para atuar como front-end
+- 🌱 Estou atualmente aprendendo: Typscript 
+- 📫 Contato: nayara.luiza21@gmail.com
+- 😄 Pronoumes: ela/dela
 
 <div align="center">
   <a href="https://github.com/nalutm">
