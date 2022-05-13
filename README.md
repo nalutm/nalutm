@@ -1,7 +1,7 @@
 ## Olá, eu sou a Nayara Luiza, desenvolvedora iniciante! 
 
 - 🔭 Hoje estou estudando para atuar como front-end
-- 🌱 Estou atualmente aprendendo: Typscript 
+- 🌱 Estou atualmente aprendendo: TypeScript 
 - 📫 Contato: nayara.luiza21@gmail.com
 
 <div align="center">
