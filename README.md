@@ -1,9 +1,9 @@
-## Olá, eu sou a Nayara Luiza, desenvolvedora iniciante! 😃
+## Hi! 👋 I'm Nayara Luiza, junior developer! 😃
 
 ## About me 🤓
 
-- 👩🏽‍🎓 I'm a science computer student
-- 👩‍💻 I'm currently studying: TypeScript 
+- 👩🏽‍🎓 I'm a computer science student
+- 👩‍💻 I'm currently studying TypeScript 
 - 🚀 I intend to be front-end web developer
 - 📚 🐶 🐱 🌲 I love reading, dogs, cats and being around nature
 
@@ -24,8 +24,8 @@
 
 <div align="center">
   <a href="https://github.com/nalutm">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nalutm&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nalutm&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=nalutm&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nalutm&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
  
