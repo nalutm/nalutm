@@ -2,8 +2,9 @@
 
 ## About me 🤓
 
-- 👩🏽‍🎓 I'm a computer science student
+- 👩🏽‍🎓 I'm a Computer Science student
 - 🚀 I intend to collaborate in projects that will make the world a better place
+- 💻 I enjoy solving  challenges to practice my knowledge
 - 📚 🐶 🐱 🌲 I love reading, dogs, cats and being surrounded by nature
 
 ##
