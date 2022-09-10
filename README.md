@@ -1,11 +1,11 @@
 ### Hi! I'm Nayara Luiza, junior developer! 😃
 
-### About me 🤓
+### About me 
 
-- 👩🏽‍🎓 I'm a Computer Science student
-- 🚀 I intend to collaborate in projects that will make great impact on people lives
-- 💻 I enjoy solving  challenges to practice my knowledges
-- 📚 🐶 🐱 🌲 I love reading, dogs, cats and being surrounded by nature
+- 🐶 🐱 Bachelor of Veterinary Medicine in career transition to Software Development 💻.
+- 📚 Engaged for years in scientific research and teaching projects, I believe
+that knowledge transforms lives. 
+- 👩🏽‍🎓 Currently, a Computer Science student dedicated to build a new career, learning and solving challenges in JavaScript, NodeJS and React.
 
 ##
   <a href="https://www.linkedin.com/in/nayara-luiza-moraes-9a9382b5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
