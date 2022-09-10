@@ -2,7 +2,7 @@
 
 ### About me 
 
-- 🐶 🐱 Bachelor of Veterinary Medicine in career transition to Software Development 💻.
+- 🐶 🐱 Veterinary in career transition to Software Development 💻.
 - 📚 Engaged for years in scientific research and teaching projects, I believe
 that knowledge transforms lives. 
 - 👩🏽‍🎓 Currently, a Computer Science student dedicated to build a new career, learning and solving challenges in JavaScript, NodeJS and React.
