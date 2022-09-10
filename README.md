@@ -1,6 +1,6 @@
 ### Hi! 👋 I'm Nayara Luiza, junior developer! 😃
 
-#### About me 🤓
+### About me 🤓
 
 - 👩🏽‍🎓 I'm a Computer Science student
 - 🚀 I intend to collaborate in projects that will make great impact on people lives
@@ -10,7 +10,7 @@
 ##
   <a href="https://www.linkedin.com/in/nayara-luiza-moraes-9a9382b5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     
- #### Tech Stacks
+ ### Tech Stacks
   <div style="display: inline_block"><br>
     <img align="center" alt="Nalu-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
           
@@ -24,7 +24,7 @@
   
 </div>
 
-#### Status
+### Status
 
 <div align="center">
   <a href="https://github.com/nalutm">
