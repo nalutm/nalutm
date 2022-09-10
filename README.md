@@ -1,4 +1,4 @@
-### Hi! 👋 I'm Nayara Luiza, junior developer! 😃
+### Hi! I'm Nayara Luiza, junior developer! 😃
 
 ### About me 🤓
 
