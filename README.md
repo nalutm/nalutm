@@ -1,4 +1,4 @@
-### Hi! I'm Nayara Luiza, Software Engineer! 😃
+### Hi! I'm Nayara Luiza, Software Engineer! 
 
 ### About me 
 
