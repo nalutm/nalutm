@@ -1,11 +1,11 @@
-### Hi! I'm Nayara Luiza, software development student! 😃
+### Hi! I'm Nayara Luiza, Software Engineer! 😃
 
 ### About me 
 
-- 🐶 🐱 Veterinary in career transition to Software Development 💻.
-- 📚 Engaged for years in scientific research and teaching projects, I believe
-that knowledge transforms lives. 
-- 👩🏽‍🎓 Currently graduating in Computer Science, dedicated to build a new career, learning and solving challenges in JavaScript, NodeJS and React.
+- 👩🏽‍🎓 Graduating in Computer Science
+- 💻Studying JavaScript, NodeJS and React.
+- 📚 Bachelor of Veterinary Medicine engaged for years in scientific research and academic projects, I believe that knowledge transforms lives. 
+
 
 ##
   <a href="https://www.linkedin.com/in/nayara-luiza-moraes-9a9382b5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
