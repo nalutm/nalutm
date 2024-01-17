@@ -3,7 +3,7 @@
 ### About me 
 
 - 👩🏽‍🎓 Graduating in Analysis and Systems Development
-- 💻 Studying JavaScript, TypeScript, React and NodeJS.
+- 💻 Studying JavaScript, TypeScript, React, NextJS.
 - 📚 Bachelor of Veterinary Medicine engaged for years in scientific research and academic projects, I believe that knowledge transforms lives. 
 
 
@@ -18,7 +18,7 @@
 
   <img align="center"  alt="React icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
           
-   <img  align="center" alt="NodeJS icon" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+   <img  align="center" alt="NextJS icon" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" />
             
    <img align="center" alt="HTML icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
    
