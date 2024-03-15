@@ -3,7 +3,7 @@
 ### About me 
 
 - 👩🏽‍🎓 Graduating in Analysis and Systems Development
-- 💻 Studying Algorithms and Data Structure, MongoDB, NodeJS, TypeScript, React.
+- 💻 Studying Algorithms and Data Structure, MongoDB, PostgreSQL, NodeJS, TypeScript, React.
 - 📚 Bachelor of Veterinary Medicine engaged for years in scientific research and academic projects, I believe knowledge transforms lives. 
 
 ##
@@ -23,8 +23,10 @@
 
   <img align="center"  alt="React icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   
-  <img align="center"  alt="MongoDB icon" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain.svg" />   
-  
+  <img align="center"  alt="MongoDB icon" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain.svg" /> 
+
+  <img align="center"  alt="PostgreSQL icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+          
   <img align="center"  alt="NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" />
            
   <img  align="center" alt="NextJS icon" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
